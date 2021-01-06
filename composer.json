@@ -1,0 +1,15 @@
+{
+    "name": "mintopia/jwt-gen",
+    "description": "JWT Generator",
+    "type": "project",
+    "require": {
+        "firebase/php-jwt": "^5.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jessica Smith",
+            "email": "jess@mintopia.net"
+        }
+    ]
+}
